@@ -29,7 +29,7 @@
 //     //Ejecutar la funcion almacenada en parametro 'objects'
 //     console.log(objects.saludar());
 // }
-// funcioneObjetos({id:123, name: "Miguel", saludar : () => `Hola soy miguel` });
+// funcioneObjetos({id:123, name: "Miguel", saludar : () => `Hola soy andres` });
 
 // Convertir los parametros en un array numerico
 // let funcioneArray = (...p1)=>{
